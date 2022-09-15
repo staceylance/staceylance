@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @staceylance
 - 👀 I’m interested in Devops, ML, learning all I can
-- 🌱 I’m currently learning CS50, MastermndIO, Python.
+- 🌱 I’m currently learning CS50, Web Development, React, Bootstrap.
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me kainelance@gmail.com
 
